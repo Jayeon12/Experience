@@ -1,21 +1,20 @@
-# 한정수 포트폴리오
->캐치 프레이즈
+# E2I1 学習メンタリング
+>コンピュータネットワーク科目に関する予習・復習
 
 </br>
 
-## :pushpin: Intro
-(여기에 자기 소개)
+## :pushpin: メンタリングの目標
+コンピュータネットワークに関する情報処理技術者試験（韓国の資格）の問題を勉強しながら、コンピュータネットワークの科目で良い成績を取ること、さらには情報処理技術者試験の取得に役立つようにメンタリングを行うことを目標としています。
 
 </br>
 
-## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+## :pushpin: 連絡
+- e-mail : nature304545@gmail.com
+- github : https://github.com/Jayeon12
 
 </br>
 
-## :pushpin: Projects
+## :pushpin: 活動内容
 ### 1. [goQuality](https://github.com/Integerous/goQuality)
 >고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
 >개발 기간: 2019.2.18 ~ 2019.4.5  
