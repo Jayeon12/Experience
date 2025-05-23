@@ -1,29 +1,14 @@
-# 프로젝트명
 
-## 📝 프로젝트 소개
-メンタリング活動記録 (Mentoring Activity Log)
+## 📝 プロジェクト紹介
 
-## 🛠 사용 기술
-- Spring Boot 3.0
-- JPA/Hibernate
-- MySQL 8.0
-- Redis
+以下のリンクから、詳細な説明が記載された README.md ファイルをご確認いただけます。
 
-## 📊 시스템 구조
-[시스템 구조도 이미지]
 
-## 🔍 주요 기능
-1. 회원 관리
-   - JWT 기반 인증
-   - OAuth2.0 소셜 로그인
+🔍 **メンタリング活動記録 (Mentoring Activity Log)**
+  - [README.md](https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/portfoilo.md)
+  - [README.md 파일 내용(txt)](https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/portfolio.txt)
 
-2. 상품 관리
-   - 카테고리별 상품 CRUD
-   - 실시간 재고 관리
 
-## 🎯 성능 개선
-- 캐시 적용으로 응답속도 70% 개선
-- 페이징 처리로 메모리 사용량 최적화
-
-## 📚 API 문서
-- Swagger URL: http://example.com/swagger
+🎯 **共同プロジェクト (Joint project)**
+  - [README.md](https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/project.md)
+  - [README.md 파일 내용(txt)](https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/project.txt)
