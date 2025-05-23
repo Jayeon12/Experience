@@ -6,7 +6,7 @@
 
 🔍 **メンタリング活動記録 (Mentoring Activity Log)**
   - [README.md](포트폴리오/mentoring.md)
-  - [README.md 파일 내용(txt)](https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/portfolio.txt)
+  - [README.md 파일 내용(txt)](포트폴리오/portfolio.txt)
 
 
 🎯 **共同プロジェクト (Joint project)**
