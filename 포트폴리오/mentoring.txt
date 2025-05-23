@@ -1,52 +1,105 @@
+
 # E2I1 学習メンタリング
->캐치 프레이즈
+>コンピュータネットワーク科目に関する予習・復習
 
 </br>
 
-## :pushpin: Intro
-(여기에 자기 소개)
+## :pushpin: メンタリングの目標
+>コンピュータネットワークに関する情報処理技術者試験（韓国の資格）の問題を勉強しながら、コンピュータネットワークの科目で良い成績を取ること、さらには情報処理技術者試験の取得に役立つようにメンタリングを行うことを目標としています。
 
 </br>
 
-## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+## :pushpin: 連絡
+- e-mail : nature304545@gmail.com
+- github : https://github.com/Jayeon12
 
 </br>
 
-## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+## :pushpin: 活動内容
+### 第1週
+>目標：ソフトウェアライフサイクル、スクラム手法、XP手法について理解すること 
+>
+>活動日 : 3月29日 19:00〜21:00  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>詳細学習：
+>
+>情報処理技師試験 第1科目   
+>ソフトウェアライフサイクル／スクラム手法／XP手法
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 第2週
+>目標：現行システムの把握、開発技術環境の把握、要求定義、要求分析について理解すること
+>
+>活動日 : 4月5日 19:00〜21:00  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>詳細学習：
+>
+>情報処理技師試験 第1科目   
+>現行システムの把握／開発技術環境の把握／要求定義／要求分析  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
 
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+### 第3週
+> 目標：UML、UMLダイアグラム、ユーザーインターフェースについて理解すること
+>活動日 : 4月12日 18:00〜20:00 
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>詳細学習：
+>
+>情報処理技師試験 第1科目   
+>UML／主要なUMLダイアグラム／ユーザーインターフェース
+>
+>
 
+---
+
+### 第4週
+>目標：UI標準およびガイドライン、UI設計ツール、UI要求事項の確認について理解すること
+>活動日 : 4月19日 19:00〜21:00
+>  
+>詳細学習：
+>
+>情報処理技師試験 第1科目   
+>UI標準およびガイドライン／UI設計ツール／UI要求事項の確認
+>
+>
+
+---
+
+
+### 第5週
+>目標：品質要求事項／UIプロトタイプの作成とレビュー／UI設計書の作成／ユーザビリティ評価について理解すること
+>活動日 : 4月26日 19:00〜21:00 
+>  
+>詳細学習：
+> 
+>情報処理技師試験 第1科目   
+>品質要求事項／UIプロトタイプの作成とレビュー／UI設計書の作成／ユーザビリティ評価
+>
+
+---
+
+
+### 👋 活動中の写真
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img width="80%" src="https://github.com/user-attachments/assets/0b1bcdbf-65eb-4285-bdc1-15baeedec89a"/>
+      </td>
+      <td>
+        <img width="80%" src="https://github.com/user-attachments/assets/2577aa26-368c-4956-8a6d-3fff45589945"/>
+      </td>
+      <td>
+        <img width="80%" src="https://github.com/user-attachments/assets/c3d4c4f6-ff56-428e-88d8-67f228fe5c40"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br />
+<br />
