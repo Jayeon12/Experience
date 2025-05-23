@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: メンタリングの目標
-コンピュータネットワークに関する情報処理技術者試験（韓国の資格）の問題を勉強しながら、コンピュータネットワークの科目で良い成績を取ること、さらには情報処理技術者試験の取得に役立つようにメンタリングを行うことを目標としています。
+>コンピュータネットワークに関する情報処理技術者試験（韓国の資格）の問題を勉強しながら、コンピュータネットワークの科目で良い成績を取ること、さらには情報処理技術者試験の取得に役立つようにメンタリングを行うことを目標としています。
 
 </br>
 
@@ -16,48 +16,52 @@
 
 ## :pushpin: 活動内容
 ### 第1週
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+>目標：ソフトウェアライフサイクル、スクラム手法、XP手法について理解すること 
+>
+>活動日 : 3月29日 19:00〜21:00  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>詳細学習：
+>
+>情報処理技師試験 第1科目   
+>ソフトウェアライフサイクル／スクラム手法／XP手法
 >  
 
 ---
 
 ### 第2週
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>目標：現行システムの把握、開発技術環境の把握、要求定義、要求分析について理解すること
+>
+>活動日 : 4月5日 19:00〜21:00  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>詳細学習：
+>
+>情報処理技師試験 第1科目   
+>現行システムの把握／開発技術環境の把握／要求定義／要求分析  
 >  
 
 ---
 
 ### 第3週
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+> 目標：UML、UMLダイアグラム、ユーザーインターフェースについて理解すること
+>活動日 : 4月12日 18:00〜20:00 
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
+>詳細学習：
+>
+>情報処理技師試験 第1科目   
+>UML／主要なUMLダイアグラム／ユーザーインターフェース
 >
 >
 
 ---
 
 ### 第4週
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+>目標：UI標準およびガイドライン、UI設計ツール、UI要求事項の確認について理解すること
+>活動日 : 4月19日 19:00〜21:00
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
+>詳細学習：
+>
+>情報処理技師試験 第1科目   
+>UI標準およびガイドライン／UI設計ツール／UI要求事項の確認
 >
 >
 
@@ -65,14 +69,42 @@
 
 
 ### 第5週
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+>目標：品質要求事項／UIプロトタイプの作成とレビュー／UI設計書の作成／ユーザビリティ評価について理解すること
+>活動日 : 4月26日 19:00〜21:00 
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->
+>詳細学習：
+> 
+>情報処理技師試験 第1科目   
+>品質要求事項／UIプロトタイプの作成とレビュー／UI設計書の作成／ユーザビリティ評価
 >
 
 ---
+
+
+### 👋 活動中の写真
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://youtu.be/BYKYpyyJfKU" title="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
+          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
+        </a>
+      </td>
+      <td>
+        <a href="https://youtu.be/HR1b2hrxvbY" title="사오이십조 - DRF 5일차 스터디영상">
+          <img align="center" src="https://user-images.githubusercontent.com/68724828/186109362-b40c300c-0906-4062-9bc3-8229e692af8e.png" width="300" alt-text="사오이십조 - DRF 5일차 스터디영상">
+        </a>
+      </td>
+      <td>
+        <a href="https://youtu.be/nXTzsSGfIbg" title="사오이십조 - 220624아침퀴즈 스터디영상">
+        <img align="center" src="https://user-images.githubusercontent.com/68724828/186110013-b5c77cf3-0bbc-481a-897b-d3a30bc74be6.png" width="300" alt-text="사오이십조 - 220624아침퀴즈 스터디영상">
+          </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br />
+<br />
