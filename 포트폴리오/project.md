@@ -1,6 +1,5 @@
-# :pushpin: goQuality
->고퀄리티 개발 컨텐츠 공유 서비스  
->https://go-quality.dev  
+# :pushpin: 倉庫物品追跡プログラム
+>チーム「チドン」  
 
 </br>
 
