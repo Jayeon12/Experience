@@ -6,7 +6,7 @@
 
 🔍 **メンタリング活動記録 (Mentoring Activity Log)**
   - [README.md](포트폴리오/mentoring.md)
-  - [README.md ファイルの内容(txt)](포트폴리오/portfolio.txt)
+  - [README.md ファイルの内容(txt)](포트폴리오/mentoring.txt)
 
 
 🎯 **共同プロジェクト (Joint project)**
