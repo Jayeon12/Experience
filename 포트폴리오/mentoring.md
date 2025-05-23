@@ -87,13 +87,13 @@
   <tbody>
     <tr>
       <td>
-        ![Image](https://github.com/user-attachments/assets/0b1bcdbf-65eb-4285-bdc1-15baeedec89a)
+        <img width="80%" src="https://github.com/user-attachments/assets/0b1bcdbf-65eb-4285-bdc1-15baeedec89a"/>
       </td>
       <td>
-        ![Image](https://github.com/user-attachments/assets/2577aa26-368c-4956-8a6d-3fff45589945)
+        <img width="80%" src="https://github.com/user-attachments/assets/2577aa26-368c-4956-8a6d-3fff45589945"/>
       </td>
       <td>
-        ![Image](https://github.com/user-attachments/assets/c3d4c4f6-ff56-428e-88d8-67f228fe5c40)
+        <img width="80%" src="https://github.com/user-attachments/assets/c3d4c4f6-ff56-428e-88d8-67f228fe5c40"/>
       </td>
     </tr>
   </tbody>
